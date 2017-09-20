@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## EDUCATIONAL BACKGROUND
 
-You can use the [editor on GitHub](https://github.com/AutumnMorning/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+09/2015-Now Master Degree of Microelectronics and Solid State Electronics, School of Optical and electronic information (SOEI), Huazhong University of Science & Technology (HUST), Wuhan, China GPA: 3.91/4.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+09/2011-06/2015 Bachelor Degree of Science in Electronic Science and Technology, SOEI, HUST, Wuhan, China GPA: 3.57/4.0
 
 ### Markdown
 
