@@ -52,7 +52,7 @@
 
 - **02/2016-06/2016**  **Teaching assistant, Undergraduate Core Curriculum**, *Physics of Electronic Materials*, SOEI, HUST, Wuhan, China.    
 	**Advisor**: Assoc. Prof. Guifen Fan  
-**Purpose and uniqueness：**Assist professor to finish the tasks of teaching and administrating
+**Purpose and uniqueness** : Assist professor to finish the tasks of teaching and administrating
 	- Prepared all the things of classes, including files, machines, and internet to make sure that teaching went well
 	- Kept teaching materials and things for daily use
 	- Guided students to study well and helped them to solve some basic problems
@@ -60,7 +60,7 @@
 
 - **03/2014-06/2014**  **Group Leader**, *Molecular dynamics simulation of lithium batteries using V2C nanomaterials*, Center for Computational Materials Science and Computer Measurement Simulation, SOEI, HUST, Wuhan, China.    
 	 **Advisor**: Prof. Jianjun Jiang, and Assoc. Prof. Ling Miao  
-**Purpose and uniqueness：**Use Materials Studio and SIESTA software to investigate the electrode properties and electrochemical properties of V2C nanomaterials for Li-ion batteries based on the first principles
+**Purpose and uniqueness** : Use Materials Studio and SIESTA software to investigate the electrode properties and electrochemical properties of V2C nanomaterials for Li-ion batteries based on the first principles
 	- Assigned work to team members, assessed project progress and thus adjusted workload of everyone to finish the project in time
 	- Learnt how to use Materials Studio to establish the three-dimensional molecular model and did the SIESTA calculation 
 
