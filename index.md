@@ -1,3 +1,4 @@
+![](avatar.jpg)
 
 **NAME**: Qiuchen Wu  
 **NATIONALITY**: China  
