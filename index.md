@@ -1,4 +1,10 @@
 
+**NAME**: Qiuchen Wu  
+**NATIONALITY**: China  
+**DOB**: 08/15/1993  
+**MOBILE**: +86 15571203409  
+**EMAIL**: wuqiuchen@hust.edu.cn   
+
 
 ## EDUCATIONAL BACKGROUND
 
