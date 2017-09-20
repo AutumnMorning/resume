@@ -28,7 +28,8 @@
 - “A kind of piezoceramic material applied to underwater acoustic transducers and its preparation method”, PRC PAT. 201710452782.6. Guifen Fan, **Qiuchen Wu**, Wenzhong Lv, Xiaochuan Wang, Wen Lei, Ziqing Zeng. under review.
 
 ## RESEARCH EXPERIENCES
-- **09/2015-Now**  **Group leader, the Fundamental Research Funds for the Central Universities of China** *Research on microstructure and high-field effect of high-power piezoelectric ceramics used in underwater acoustic transducers (No. 2015JCTD114)*, Key Lab of Functional Materials for Electronic Information, MOE, HUST, Wuhan, China. **Advisor**: Prof. Wenzhong Lv, Assoc. Prof. Guifen Fan, Assoc. Prof. Xiaohong Wang and Assoc. Prof. Wen Lei  
+- **09/2015-Now**  **Group leader, the Fundamental Research Funds for the Central Universities of China** *Research on microstructure and high-field effect of high-power piezoelectric ceramics used in underwater acoustic transducers (No. 2015JCTD114)*, Key Lab of Functional Materials for Electronic Information, MOE, HUST, Wuhan, China.   
+**Advisor**: Prof. Wenzhong Lv, Assoc. Prof. Guifen Fan, Assoc. Prof. Xiaohong Wang and Assoc. Prof. Wen Lei  
 **Purpose and uniqueness**：Design and fabricate a kind of high-power piezoceramic material with high performance which meets the demands of underwater acoustic transducers
 	- Prepared PMS-PZT piezoceramic superfine powder using molten salt method
 	- Fabricated PMS-PZT piezoelectric ceramics with homogeneous composition and controlled grain size
@@ -40,7 +41,7 @@
 	- One patent about this project has been submitted to State Intellectual Property Office of the P.R.C
 
 
-- **09/2015-Now**  **Research assistant, the National Science and Technology Major Project 02 Project** (2013ZX02104－001－002), *Researches on the Microwave Dielectric Properties and Breakdown Strength of Alumina Ceramics*, Key Lab of Functional Materials for Electronic Information, MOE, HUST, Wuhan, China.   
+- **09/2015-Now**  **Research assistant, the National Science and Technology Major Project 02 Project** (2013ZX02104－001－002), *Researches on the Microwave Dielectric Properties and Breakdown Strength of Alumina Ceramics*, Key Lab of Functional Materials for Electronic Information, MOE, HUST, Wuhan, China.    
 	**Advisor**: Prof. Wenzhong Lv, Assoc. Prof. Guifen Fan, and Assoc. Prof. Xiaohong Wang   
 **Purpose and uniqueness**：Fabricate Al2O3-based ceramics with excellent microwave dielectric properties and achieve best breakdown strength by adding CaO-SiO2-MgO, ZrO2 and other sintering aids 
 	- Studied the sintering characteristics and electrical properties of alumina ceramics by adjusting the ratio of the oxide content in CaO-SiO2-MgO sintering aids
@@ -49,7 +50,7 @@
 	- Improved the final performance of alumina ceramics by controlling the dumping atmosphere and the heating rate
 	- One paper about this project has been accepted by Journal of Inner Mongolia University of Science and Technology
 
-- **02/2016-06/2016**  **Teaching assistant, Undergraduate Core Curriculum**, *Physics of Electronic Materials*, SOEI, HUST, Wuhan, China.   
+- **02/2016-06/2016**  **Teaching assistant, Undergraduate Core Curriculum**, *Physics of Electronic Materials*, SOEI, HUST, Wuhan, China.    
 	**Advisor**: Assoc. Prof. Guifen Fan  
 **Purpose and uniqueness：**Assist professor to finish the tasks of teaching and administrating
 	- Prepared all the things of classes, including files, machines, and internet to make sure that teaching went well
@@ -57,7 +58,7 @@
 	- Guided students to study well and helped them to solve some basic problems
 	- Helped professor to correct homework, and communicate with students well
 
-- **03/2014-06/2014**  **Group Leader**, *Molecular dynamics simulation of lithium batteries using V2C nanomaterials*, Center for Computational Materials Science and Computer Measurement Simulation, SOEI, HUST, Wuhan, China.  
+- **03/2014-06/2014**  **Group Leader**, *Molecular dynamics simulation of lithium batteries using V2C nanomaterials*, Center for Computational Materials Science and Computer Measurement Simulation, SOEI, HUST, Wuhan, China.    
 	 **Advisor**: Prof. Jianjun Jiang, and Assoc. Prof. Ling Miao  
 **Purpose and uniqueness：**Use Materials Studio and SIESTA software to investigate the electrode properties and electrochemical properties of V2C nanomaterials for Li-ion batteries based on the first principles
 	- Assigned work to team members, assessed project progress and thus adjusted workload of everyone to finish the project in time
